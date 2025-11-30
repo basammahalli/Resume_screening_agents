@@ -1,0 +1,134 @@
+resume,score,top_sent_1,top_sent_2
+alice_resume.txt,0.6619505286216736,"Alice
+Skills: Python, NLP, machine learning, TensorFlow, resume parsing
+Experience: 2 years",
+carol_resume.txt,0.5829650163650513,"Carol
+Skills: Python, data science, embeddings, scikit-learn
+Experience: 1 year",
+RESUME (2).pdf,0.330608069896698,"BASAMMA HALLI
+Basammahalli9119@gmail.com 8050788594 Bengaluru
+SUMMARY
+Motivated and detail-oriented Information Science and Engineering student currently pursuing a
+Bachelor's degree, with a solid foundation in computer science, data structures, and software
+engineering principles. Proficient in multiple programming languages including Python, Java, C,
+JavaScript, HTML, and CSS. Demonstrates strong problem-solving skills, a keen interest in
+software development, and a commitment to continuous learning and growth in the field of
+technology.
+SKILLS
+Data Visualisation using PowerBI and Tableau Data Structures using Python (Familiar)
+AWS Cloud Computing (Familiar) F r o n t - E n d D e v e l o p e r (Familiar)
+C,Java,JavaScript Programming (Familiar) P y t h o n Programming (Familiar)
+Figma - UI Designing (Familiar) S o f t w a r e E ngineering Project Management
+EDUCATION
+Bachelor of Engineering (B. E.) Information science and Engineering 2022- Present
+Bangalore Institute of technology, Bengaluru
+CGPA-8.73
+Senior Secondary (XII), Science S.B.R P U College, Kalburgi 2020 - 2022
+Percentage-92%
+Secondary (X) Sri sardar Vallabhbhai Patel memorial High School, Kalburgi 2019-2020
+Percentage-94.08%
+EXPERIENCE
+Edunet Foundation (2025)
+Microsoft AI – AICTE internship
+Prinston smart engineers (2024)
+Full stack web development internship
+Science center BIT (2024-Present)
+Vice-President
+DevSoc club (2024-Present)
+Desigining and markenting core
+PROJECTS
+Smart Campus Navigation system
+A web-based Smart Campus Navigation System offers real-time navigation with interactive maps
+and location markers.
+Built with React and mapping libraries, it supports future features like indoor navigation and crowd
+monitoring.\nTimetable management system
+A Time Table Management System automates scheduling of classes, rooms, and faculty
+to reduce conflicts and improve efficiency.
+It ensures organized academic planning by dynamically generating and managing
+timetables based on availability and constraints.
+Designed a UI for weather app
+""Clima” is a Canva-based weather app designed for daily planning, real-time alerts, and
+emergency preparedness.
+It offers customizable settings, weather-related data, and an intuitive UI for a reliable and user-
+friendly experience.
+College attendence sytem using java
+A web-based college attendance system built using JSP and Servlets automates attendance
+tracking with real-time updates and role-based access.
+It features secure login, efficient record management, and report generation to streamline
+administrative tasks and improve accuracy.
+Train Ticket Reservation System
+“Railrush” is a Java-based Train Ticket Reservation System incorporating user and admin
+functionalities, utilizing JDBC, Servlets, Oracle SQL, and a responsive frontend with HTML/CSS/.
+CERTIFICATIONS
+Full stack web development internship by Prinston smart engineers
+AWS Cloud computing and stacking
+Cisco Forecast League Certification – Cisco, 2025
+Microsoft Learn Student Ambassadors workshop on Introduction to Web Development
+Automated Software Testing using TOSCA, Selenium & Katalon Studio- DevSoc club
+UI/UX Design Competition – DevSoc Club
+Data Visualization- Digital Adda
+Secured 2nd place in the National Level Ideathon at CIT Gubbi, 2024.
+INTERESTS AND STRENGTHS
+Coding Creativity
+Travelling Good communication
+Chess Event management
+Photography Quick learner",
+bob_resume.txt,0.2614777386188507,"Bob
+Skills: Java, Spring, microservices, Docker
+Experience: 3 years",
+Dharshan_D_Resume.pdf,0.23068784177303314,"Dharshan D
+GitHub Email:dharshand697@gmail.com LinkedIn
+● ●
+Passionate about building scalable software solutions that solve real-world problems.
+Professional Experience
+Independent Machine Learning & Software Development Projects
+Self-directed | 2022 – Present
+• Sign Language Detection using Machine Learning – Built a real-time model to classify hand gestures
+with high accuracy, leveraging image processing and ML techniques for accessibility solutions.
+• Handwritten Mathematical Equation Solver using Neural Networks – Developed a neural network system
+that recognizes and solves handwritten equations using OCR and deep learning.
+• Zoo Management System – Designed a database-driven application with CRUD operations to manage
+animals, staff, and visitor records efficiently.
+Education
+Bangalore Institute Of Technology, Bangalore | BE | ISE | 7.81 CGPA 2022-2026
+M S PU College, Kolar | PU | PCMB | 93% 2020-2022
+M S School | SSLC | 86.78% 2019- 2020
+Involvement
+• Science Club–Organized workshops and promoted peer learning as an active Science Club member. 2024
+• Samskruthi Club– Played a key role in Samskruthi’s core team, coordinating events and ensuring smooth
+management of cultural and technical fests. 2025
+• Science Club–Science Club Secretary, responsible for coordinating club activities, mentoring members,
+and driving participation in technical events. 2025
+Projects
+Sign Language Detection using Machine Learning – Built a real-time model to classify hand gestures with high
+accuracy, leveraging image processing and ML techniques for accessibility solutions. (mini project)
+Handwritten Mathematical Equation Solver using Neural Networks – Developed a neural network system
+that recognizes and solves handwritten equations using OCR and deep learning. (major project)
+Auto Bin Trader: trading bot designed to operate with Binance, enabling automated cryptocurrency trades
+based on predefined logic.
+Zoo Management System – Designed a database-driven application with CRUD operations to manage animals,
+staff, and visitor records efficiently.
+Automatic Attendance System: An AI-based system that automates attendance tracking using facial
+recognition for accuracy and efficiency.
+Simple Logging System: A shell-based logging system that records user activities and events. It provides a
+lightweight way to track and manage system operations.\nWeather-App: The Weather App is a Python project that fetches real-time weather data via API, displaying key
+details like, temperature, humidity, and forecasts through a simple interface.
+Random Password Generator: A Python-based tool that generates customizable, high-entropy passwords
+using cryptographic randomness for enhanced security.
+Technical Skills
+Programming & Scripting: Python, Java, JavaScript, Node.Js,Next.Js, React, REST API, Spring Boot, HTML, CSS.
+Machine Learning & AI: TensorFlow, Keras, Scikit-learn, Neural Networks, OCR
+Data Handling & Databases: SQLite, MySQL, Pandas, NumPy, Power BI, Tableau
+Tools & Technologies: API Integration, OpenCV, Git/GitHub, Jupyter Notebook, VS Code
+Concepts: Object-Oriented Programming (OOP), Data Structures & Algorithms, Software Development Life
+Cycle (SDLC)
+Certifications
+• AWS Cloud Computing and Stacking – Certification of completion. Feb-2024
+• Generative AI–Certification of Completion. (powered by Google Cloud) Aug 2025
+• UI/UX Design - Certification of Completion. June-2024
+• National Level Ideathon (CIT, Gubbi) – Secured 2nd Prize for innovative project presentation. Nov-2024
+• Cisco Forecast League– Certified by Cisco Networking Academy. April-2025
+• Data Visualization – Certification of completion.
+Additional Information
+Languages: English (Professional), Kannada (mother tongue), Hindi (Limited), Telugu (Native)
+Interests: Open-Source Software, Cricket, Travel, Fitness",

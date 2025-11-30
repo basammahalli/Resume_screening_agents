@@ -1,0 +1,3 @@
+Alice
+Skills: Python, NLP, machine learning, TensorFlow, resume parsing
+Experience: 2 years

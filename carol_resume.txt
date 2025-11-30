@@ -1,0 +1,3 @@
+Carol
+Skills: Python, data science, embeddings, scikit-learn
+Experience: 1 year

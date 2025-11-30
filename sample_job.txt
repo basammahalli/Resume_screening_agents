@@ -1,0 +1,1 @@
+We are hiring a Python developer skilled in NLP, machine learning, resume parsing, and experience with embeddings and TF-IDF.
